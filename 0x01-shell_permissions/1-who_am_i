@@ -1,2 +1,2 @@
 #!/bin/bash
-who_am_i
+root@85fa7cd07b63:/# whoami
